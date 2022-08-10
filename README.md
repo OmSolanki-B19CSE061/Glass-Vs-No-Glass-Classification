@@ -1,4 +1,4 @@
-# GlassVsNoGlassClassification
+# Glass Vs No Glass Classification
 End-to-End Machine Learning Project for Glass vs No Glass Classification. Works on and compares over 3 different standard models of Machine Learning.
 
 ● Extract the submitted files and open .ipynb code file on google colab
